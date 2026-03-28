@@ -1,0 +1,9 @@
+In 16_preprocessing.ipynb
+
+Data Frames are:
+    for raw\ List of Successful Candidates.xlsx --> df_candidates
+    for raw\ Performance of Poltical Parties.xlsx ---> df_parties_perf
+    for raw\ List Of Political Parties Participated.xlxx--> df_parties_list
+	df1 = df_parties_perf.copy (cleaned)
+	df2 = df_candidates.copy (cleaned)
+	df3 = df_parties_list.copy (cleaned)
